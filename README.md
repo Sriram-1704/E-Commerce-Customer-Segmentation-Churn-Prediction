@@ -108,138 +108,48 @@ Ecommerce-Customer-Segmentation-Churn-Prediction/
 
 └── README.md
 
-📊 Power BI Dashboards
-🔹 Executive Overview Dashboard
 
-Key Insights:
+---
 
-Total customers and overall churn rate
+## 📊 Power BI Dashboard Snapshots
 
-Sales performance overview
+> Below are snapshots of the interactive Power BI dashboards created in this project.
 
-Customer segmentation summary
+### 🔹 Executive Overview Dashboard
+![Executive Overview Dashboard](reports/Executive_Overview_Dashboard.png)
 
-High-level KPIs for decision-makers
+---
 
-🔹 Churn Analysis Dashboard
+### 🔹 Churn Analysis Dashboard
+![Churn Analysis Dashboard](reports/Churn_Analysis_Dashboard.png)
 
-Key Insights:
+---
 
-Retained vs churned customers comparison
+### 🔹 Churn Risk Insights Dashboard
+![Churn Risk Insights Dashboard](reports/Churn_Risk_Insights_Dashboard.png)
 
-Churn distribution by customer segments
+---
 
-Identification of churn-heavy segments
+## 📈 Key Insights
+- Inactive customers show the highest churn rate
+- Best customers have low churn and high purchase frequency
+- Recency is a strong churn indicator
+- Targeted retention strategies can reduce churn risk
 
-🔹 Churn Risk Insights Dashboard
+---
 
-Key Insights:
+## 📎 Reports
+- 📄 Power BI PDF Report:  
+  `reports/Ecommerce_Customer_Segmentation_Churn_Prediction_Dashboard.pdf`
+- 📝 Business Insights Summary:  
+  `reports/Insights_Summary.md`
 
-Churn rate (%) by customer segment
+---
 
-Average recency (days since last purchase)
+## 👤 Author
+**Sri Ram**  
+MCA Graduate | Data Analyst | Python | SQL | Power BI  
 
-Average purchase frequency patterns
+🔗 LinkedIn: https://www.linkedin.com/in/sri-ram-sattiraju-028349211
+📂 GitHub: https://github.com/Sriram-1704
 
-Early warning signals for high-risk customers
-
-📈 Key Metrics & Measures
-
-Total Customers
-
-Churned Customers
-
-Retained Customers
-
-Churn Rate (%)
-
-RFM Scores (Recency, Frequency, Monetary)
-
-Average Purchase Frequency
-
-Average Recency (Days)
-
-🧪 Data Processing Workflow
-
-1️⃣ Data Cleaning
-
-Removed duplicates and null values
-
-Standardized column names
-
-Converted data types for analysis
-
-2️⃣ Exploratory Data Analysis (EDA)
-
-Sales trends analysis
-
-Customer distribution analysis
-
-Churn distribution visualization
-
-3️⃣ RFM Segmentation
-
-Calculated R, F, M scores
-
-Created customer segments:
-
-Best Customers
-
-Good Customers
-
-Low Value Customers
-
-Inactive Customers
-
-4️⃣ Churn Analysis
-
-Identified churned customers
-
-Compared churn across segments
-
-Calculated churn rates
-
-5️⃣ Visualization & Reporting
-
-Built interactive dashboards in Power BI
-
-Designed clean UI with consistent color themes
-
-Exported dashboard images for documentation
-
-📝 Insights Summary
-
-Detailed business insights and recommendations are documented here:
-📄 reports/Insights_Summary.md
-
-🚀 How to Run This Project
-
-🔹 Python
-
-pip install -r requirements.txt
-
-python python_scripts/01_Data_Cleaning.py
-
-🔹 Power BI
-
-Open .pbix file from powerbi/ folder
-
-Refresh data sources if required
-
-🎯 Key Takeaways
-
-Inactive customers contribute the highest churn
-
-High-value customers have low churn risk
-
-Recency is a strong indicator of churn behavior
-
-Targeted retention strategies can significantly reduce churn
-
-👤 Author
-
-Sri Ram
-
-MCA Graduate | Aspiring Data Analyst / BI Developer
-
-Skills: Python | SQL | Power BI | Data Analysis | Visualization
