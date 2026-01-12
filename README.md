@@ -113,9 +113,28 @@ Ecommerce-Customer-Segmentation-Churn-Prediction/
 
 ---
 
+
+## EDA Snapshots
+
+
+### 🔹 Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+---
+
+### 🔹 Monthly Sales
+![Monthly Sales](images/monthly_sales.png)
+
+---
+
+### 🔹 Country Sales
+![Country Sales](images/country_sales.png)
+
+---
+
+
 ## 📊 Power BI Dashboard Snapshots
 
-> Below are snapshots of the interactive Power BI dashboards created in this project.
 
 ### 🔹 Executive Overview Dashboard
 ![Executive Overview Dashboard](reports/Executive_Overview_Dashboard.png)
@@ -141,17 +160,22 @@ Ecommerce-Customer-Segmentation-Churn-Prediction/
 ---
 
 ## 📎 Reports
-- 📄 Power BI PDF Report:  
+- 📄 Power BI PDF Report:
+   
   `reports/Ecommerce_Customer_Segmentation_Churn_Prediction_Dashboard.pdf`
-- 📝 Business Insights Summary:  
+- 📝 Business Insights Summary:
+  
   `reports/Insights_Summary.md`
 
 ---
 
 ## 👤 Author
+
 **Sri Ram**  
+
 MCA Graduate | Data Analyst | Python | SQL | Power BI  
 
 🔗 LinkedIn: https://www.linkedin.com/in/sri-ram-sattiraju-028349211
+
 📂 GitHub: https://github.com/Sriram-1704
 
