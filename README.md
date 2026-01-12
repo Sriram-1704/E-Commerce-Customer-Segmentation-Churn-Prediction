@@ -1,4 +1,5 @@
 🛒 E-Commerce Customer Segmentation & Churn Prediction Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing customer behavior, segmenting customers using RFM analysis, and identifying churn patterns in an e-commerce business.
@@ -49,6 +50,7 @@ Ecommerce-Customer-Segmentation-Churn-Prediction/
 │   ├── customer_rfm.csv
 
 │   └── sales_transactions.csv
+
 │
 
 ├── python_scripts/
