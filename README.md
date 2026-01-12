@@ -160,6 +160,7 @@ Average Purchase Frequency
 Average Recency (Days)
 
 🧪 Data Processing Workflow
+
 1️⃣ Data Cleaning
 
 Removed duplicates and null values
@@ -212,8 +213,11 @@ Detailed business insights and recommendations are documented here:
 📄 reports/Insights_Summary.md
 
 🚀 How to Run This Project
+
 🔹 Python
+
 pip install -r requirements.txt
+
 python python_scripts/01_Data_Cleaning.py
 
 🔹 Power BI
